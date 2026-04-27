@@ -148,4 +148,4 @@ Ce projet est sous licence [LGPL-2.1](./LICENSE).
 
 ---
 
-<p align="center">Fait avec ❤️ et un peu de folie ivoirienne 🇨🇮</p>
+<p align="center">Fait avec beaucoup d'humour </p>
