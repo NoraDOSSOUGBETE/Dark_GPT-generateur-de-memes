@@ -1,4 +1,4 @@
-#  Dark-GPT — Générateur de Mèmes IA à la sauce ivoirienne
+#  Dark-GPT — Générateur de Mèmes IA 
 
 > *Transforme n'importe quelle situation en mème viral, avec une touche de philosophie absurde made in Côte d'Ivoire.*
 
